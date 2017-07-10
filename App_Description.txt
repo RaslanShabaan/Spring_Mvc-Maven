@@ -1,0 +1,1 @@
+this app show how to configure spring mvc with maven adding all dependencies and also create datadase with one taple 
